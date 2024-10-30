@@ -15,9 +15,4 @@
 
 ### Let's have a chat:
 
-<a ref=https://www.linkedin.com/in/audenectoux/><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" width="50px"></a>
-
-<!---
-AudeNec/AudeNec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href=https://www.linkedin.com/in/audenectoux/><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" width="50px"></a>
