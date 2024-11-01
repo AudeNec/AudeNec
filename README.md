@@ -15,4 +15,4 @@
 
 ### Let's have a chat:
 
-<a href=https://www.linkedin.com/in/audenectoux/><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" width="50px"></a>
+<a href=https://www.linkedin.com/in/audenectoux/><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" width="50px" target="_blank"></a>
