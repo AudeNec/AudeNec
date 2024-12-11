@@ -2,7 +2,7 @@
 
 ### Looking for opportunities
 
-👀 With solid skills in **HTML, CSS, JavaScript, and React**, I combine technical abilities with a background in project management. My experience in the cultural sector and social economy enables me to bridge technical execution with effective project coordination. 
+👀 With solid skills in **HTML, CSS, Typescript, React and Express**, I combine technical abilities with a background in project management. My experience in the cultural sector and social economy enables me to bridge technical execution with effective project coordination. 
 <br>
 📅 I am currently learning fullstack, and am available for jobs starting spring 2025.
 
